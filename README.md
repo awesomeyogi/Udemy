@@ -1,2 +1,1 @@
-# kalyan
-guess
+udemy exercises on javascript
